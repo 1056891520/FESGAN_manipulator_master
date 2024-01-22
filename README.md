@@ -6,5 +6,5 @@ Facial Expression Recognition
 2. Note.txt写入了一些存在的问题;
 3. requirements.txt为执行环境；
 4. 首先执行training.py;然后执行test.py.
-5. 一些结果如下，从左到右：
-\\ $`x`$， $`\widehat{x}`$，$`x^{p,f}`$，$`x^{rec}`$
+\text {5. 一些结果如下，从左到右：}
+\ $`x`$， $`\widehat{x}`$，$`x^{p,f}`$，$`x^{rec}`$
