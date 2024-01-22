@@ -7,4 +7,4 @@ Facial Expression Recognition
 3. requirements.txt为执行环境；
 4. 首先执行training.py;然后执行test.py.
 \text {5. 一些结果如下，从左到右：}
-\ $`x`$， $`\widehat{x}`$，$`x^{p,f}`$，$`x^{rec}`$
+$`x`$， $`\widehat{x}`$，$`x^{p,f}`$，$`x^{rec}`$
