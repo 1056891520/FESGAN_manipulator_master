@@ -10,7 +10,7 @@ Facial Expression Recognition
 
 $`x`$， $`\widehat{x}`$，$`x^{p,f}`$，$`x^{rec}`$
 
-![128](https://github.com/1056891520/FESGAN_manipulator_master/assets/71159747/bfb980b3-b4d4-4780-b80a-0020dd2f20d0)
+![128](https://github.com/1056891520/FESGAN_manipulator_master/assets/71159747/bfb980b3-b4d4-4780-b80a-0020dd2f20d0.pdf)
 ![133](https://github.com/1056891520/FESGAN_manipulator_master/assets/71159747/8c4feb90-2e12-4fb4-b769-4f6b8aaaa605)
 ![132](https://github.com/1056891520/FESGAN_manipulator_master/assets/71159747/7a393015-78b3-40c4-9378-08da339220e0)
 ![129](https://github.com/1056891520/FESGAN_manipulator_master/assets/71159747/9205dc16-2d17-4368-8b35-f3318c47664d)
