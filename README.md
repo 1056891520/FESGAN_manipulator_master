@@ -7,4 +7,8 @@ Facial Expression Recognition
 3. requirements.txt为执行环境；
 4. 首先执行training.py;然后执行test.py.
 5. 一些结果如下
-![从左到右分别是原始图像，期待表情，生成假表情图像，重建图像](F:\project\FESGAN_manipulator_master\gent_imgs\21.jpg)
+![从左到右分别是原始图像，期待表情，生成假表情图像，重建图像]
+![Fig.1](https://github.com/1056891520/FESGAN_manipulator_master/assets/71159747/77e448ce-6736-4984-8dd2-42c2a463d749)
+![Fig.2](https://github.com/1056891520/FESGAN_manipulator_master/assets/71159747/528ca0a1-83ad-44f6-955b-a3b17d5b9d0e)
+![Fig.3](https://github.com/1056891520/FESGAN_manipulator_master/assets/71159747/3e4c9d93-4eed-41e9-aa0b-6a946119f157)
+![Fig.4](https://github.com/1056891520/FESGAN_manipulator_master/assets/71159747/53631ed3-0087-4108-9ecd-c479c1330d2a)
