@@ -1,3 +1,0 @@
-mkdir checkpoints
-touch checkpoints/.gitkeep
-git add checkpoints/
