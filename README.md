@@ -7,4 +7,4 @@ Facial Expression Recognition
 3. requirements.txt为执行环境；
 4. 首先执行training.py;然后执行test.py.
 5. 一些结果如下
-![从左到右分别是原始图像，期待表情，生成假表情图像，重建图像]()
+![从左到右分别是原始图像，期待表情，生成假表情图像，重建图像](F:\project\FESGAN_manipulator_master\gent_imgs\21.jpg)
