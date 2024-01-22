@@ -1,1 +1,3 @@
-find ./ -type d -empty -exec touch {}/.gitkeep \;
+mkdir checkpoints
+touch checkpoints/.gitkeep
+git add checkpoints/
