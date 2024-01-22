@@ -9,8 +9,3 @@ Facial Expression Recognition
 5. 一些结果如下，从左到右：
 
 $`x`$  ，   $`\widehat{x}`$   ，  $`x^{p,f}`$  ，  $`x^{rec}`$
-
-![Fig.1](https://github.com/1056891520/FESGAN_manipulator_master/blob/main/53.jpg)
-![Fig.2](https://github.com/1056891520/FESGAN_manipulator_master/blob/main/54.jpg)
-![Fig.3](https://github.com/1056891520/FESGAN_manipulator_master/blob/main/60.jpg)
-![Fig.4](https://github.com/1056891520/FESGAN_manipulator_master/blob/main/61.jpg)
