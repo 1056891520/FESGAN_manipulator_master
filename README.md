@@ -8,7 +8,7 @@ Facial Expression Recognition
 4. 首先执行training.py;然后执行test.py.
 5. 一些结果如下，从左到右：
 
-$`x`$ ~~~~~~~~~~~~ $`\widehat{x}`$ ~~~~~~~~~~~ $`x^{p,f}`$ ~~~~~~~~~~~~ $`x^{rec}`$
+~~~~~~ $`x`$ ~~~~~~~~~~~~ $`\widehat{x}`$ ~~~~~~~~~~~ $`x^{p,f}`$ ~~~~~~~~~~~~ $`x^{rec}`$
 
 ![Fig.1](https://github.com/1056891520/FESGAN_manipulator_master/blob/main/53.jpg)
 ![Fig.2](https://github.com/1056891520/FESGAN_manipulator_master/blob/main/54.jpg)
