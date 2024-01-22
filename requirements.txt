@@ -1,0 +1,7 @@
+torch~=1.7.1
+numpy~=1.23.0
+albumentations~=0.4.3
+tqdm~=4.66.1
+pillow~=9.0.1
+torchvision~=0.12.0+cu113
+matplotlib~=3.7.3
