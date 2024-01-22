@@ -8,5 +8,11 @@ Facial Expression Recognition
 4. 首先执行training.py;然后执行test.py.
 5. 一些结果如下，从左到右：
 
-$`x`$ ~~~~~~~~~~~~ $`\widehat{x}`$ ~~~~~~~~~~ $`x^{p,f}`$ ~~~~~~~~~~~~~ $`x^{rec}`$ \\
-![image](https://github.com/1056891520/FESGAN_manipulator_master/assets/71159747/7e3e7cd7-d1d0-4598-8d91-7151d45d6040)
+$`x`$ ~~~~~~~~~~~~ $`\widehat{x}`$ ~~~~~~~~~~ $`x^{p,f}`$ ~~~~~~~~~~~~~ $`x^{rec}`$
+# EN
+![139](https://github.com/1056891520/FESGAN_manipulator_master/assets/71159747/b96b62ad-d4dd-4dc4-bb5a-168e2252a907)
+![138](https://github.com/1056891520/FESGAN_manipulator_master/assets/71159747/bfff983d-80db-4bfa-94e1-fb8ffb719357)
+![134](https://github.com/1056891520/FESGAN_manipulator_master/assets/71159747/0cfcc2f5-88df-4b3d-b173-7f3fddb59ea5)
+![133](https://github.com/1056891520/FESGAN_manipulator_master/assets/71159747/4fbd482b-6bea-4fd0-9713-0a3bb765d4bb)
+![129](https://github.com/1056891520/FESGAN_manipulator_master/assets/71159747/707ffd55-34c2-4f0d-a2e9-66aa28929dc4)
+![128](https://github.com/1056891520/FESGAN_manipulator_master/assets/71159747/bf392cfd-e20e-45ce-bd8f-81bd0563e287)
