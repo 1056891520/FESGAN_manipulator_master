@@ -2,7 +2,7 @@
 Facial Expression Recognition
 ## CN：
 1. Light_CNN 相关代码和权值：https://github.com/AlfredXiangWu/LightCNN
-2. Note.txt写入了复现模型存在的一些问题;
+2. Note.txt写入了复现模型存在的一些问题；
 3. requirements.txt为执行环境；
 4. 首先执行training.py;然后执行test.py.
 5. 一些结果如下，从左到右：$`x`$  ，   $`\widehat{x}`$   ，  $`x^{p,f}`$  ，  $`x^{rec}`$.
@@ -12,5 +12,5 @@ Facial Expression Recognition
 ![34](https://github.com/1056891520/FESGAN_manipulator_master/assets/71159747/301dfbb8-a228-4076-bc07-55df6417b6c4)
 ## 注:
 1. 若原作者发现这个库，如有不妥请留言告知；
-2. 若他人引用此代码，请标注出处。
+2. 若他人引用此代码，请标注出处；
 3. 欢迎留言讨论交流，共同进步。
