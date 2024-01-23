@@ -277,13 +277,13 @@ def show_loss_acc(history, root_path, name1, name2, name3,name4, name5):
 if __name__ == '__main__':
     def get_parser():
         parser = argparse.ArgumentParser(description="Train_FESGAN")
-        parser.add_argument('--learning_rate', type=float, default=1e-4, help='Learning rate (default: 1e-5)')
+        parser.add_argument('--learning_rate', type=float, default=1e-4, help='Learning rate (default: 1e-4)')
         parser.add_argument('--inchannel', type=int, default=3, help='input channel')
         parser.add_argument('--latent_dim', type=int, default=70, help='latent vector dimension')
         parser.add_argument('--p_epoch', type=int, default=80, help='mid_epoch')
         parser.add_argument('--num_class', type=int, default=6, help='number classes')
-        parser.add_argument('--train_path', type=str, default= r'F:\FER_dataset_clearned\Oulu_CASIA_VIS_Strong\Frontal face\train', help='Path to traindata')
-        parser.add_argument('--epochs', type=int, default=200, help='Number of epochs to train (default: 160)')
+        parser.add_argument('--train_path', type=str, default= r'./Oulu_CASIA_VIS_Strong/train', help='Path to traindata')
+        parser.add_argument('--epochs', type=int, default=200, help='Number of epochs to train (default: 200)')
         parser.add_argument('--batch_size', default=16, type=int, help='Batch size per GPU')
         parser.add_argument('--device', default='cuda', help='device to use for training / testing')
         parser.add_argument('--start_epoch', type=int, default=0, help='(default: 0)')
