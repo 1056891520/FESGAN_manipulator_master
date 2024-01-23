@@ -10,3 +10,7 @@ Facial Expression Recognition
 ![44](https://github.com/1056891520/FESGAN_manipulator_master/assets/71159747/33e7b84b-b779-4483-a77c-2418bc7e0305)
 ![43](https://github.com/1056891520/FESGAN_manipulator_master/assets/71159747/62ad60ac-9575-4111-88b1-6b8452b36781)
 ![34](https://github.com/1056891520/FESGAN_manipulator_master/assets/71159747/301dfbb8-a228-4076-bc07-55df6417b6c4)
+# 注:
+1. 如何原作者发现这个库，若有不妥麻烦留言告知；
+2. 若他人引用此代码，请标注出处。
+3. 欢迎留言讨论交流，共同进步。
